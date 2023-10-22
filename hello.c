@@ -1,7 +1,7 @@
 /**
- * Author: NAME
+ * Author: Kamran Fiaz
  *         EMAIL
- * Date: 20xx/xx/xx
+ * Date: 10/22/2023
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("I Love School Of Computing!\n");
 
   return 0;
 }
